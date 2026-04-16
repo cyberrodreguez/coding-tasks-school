@@ -1,0 +1,4 @@
+1,Adhoith,20
+2,Amrith,30
+12,Arif,60
+15,Bharath,88
